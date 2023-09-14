@@ -58,8 +58,8 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
-disqus_username: znxin
+# Disqus（https://disqus.com/）
+# disqus_username: znxin
 
 # Gitalk
 # gitalk:

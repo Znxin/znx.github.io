@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Java
     - Json
+    - 挖坑
 
 ---
 
@@ -58,6 +59,6 @@ System.out.println("equipmentType: " + equipmentType);
 
 
 
-![image-20230918141701177](/Users/znx/Library/Application Support/typora-user-images/image-20230918141701177.png)
+![image-20230918141701177](/Users/znx/Desktop/github/znx-blog/image/work/1/1-3.png)
 
 用google的jsonParser import com.google.gson.JsonParser 即可

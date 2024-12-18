@@ -2,9 +2,9 @@
 title: znx Blog
 SEOTitle: znx的博客 | znx Blog
 header-img: img/post-bg-desk.jpg
-email: zhangnx0606@foxmail.com
-description: "Every failure is leading towards success."
-keyword: "znx, znx Blog, znx的博客, znxin, 张乃心, c++, java, iOS"
+email: zhangnx0606@gmail.com
+description: "Fake it, until you make it."
+keyword: "znx, znx Blog, znx的博客, zhangnx, 张乃心, c++, java, iot"
 url: "http://znxin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/znxin/znxin.github.io.git" # you code repository
